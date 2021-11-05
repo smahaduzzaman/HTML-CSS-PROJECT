@@ -1,0 +1,22 @@
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    /* background-color: #ddd; */
+    margin: 30px 10px 10px 10px;
+}
+
+.gallery-imgs{
+    margin-top: 80px;
+}
+.gallery-imgs img{
+    width: 400px;
+    height: 300px;
+
+}
+
+.gallery h1{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
